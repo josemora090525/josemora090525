@@ -1,12 +1,12 @@
-<h1 align="center"><b>Hi, I'm José David Mora Patiño</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Jose David Mora Patino</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <strong>Systems and Computer Engineering Student</strong><br/>
-  Full Stack Development · AI-Powered Applications · Automation · Cloud Deployment
+  <strong>Estudiante de Ingenieria de Sistemas y Computacion</strong><br/>
+  Desarrollo Full Stack · Aplicaciones con IA · Automatizacion · Despliegue en la nube
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+software+solutions+with+real-world+impact;Focused+on+full-stack+development+and+AI+applications;Working+with+APIs%2C+databases%2C+cloud+and+automation;Learning%2C+building+and+growing+through+technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Construyendo+soluciones+de+software+con+impacto+real;Enfocado+en+desarrollo+full+stack+y+aplicaciones+de+IA;Trabajando+con+APIs%2C+bases+de+datos%2C+nube+y+automatizacion;Aprendiendo%2C+construyendo+y+creciendo+con+tecnologia" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,44 +25,50 @@
 
 <img align="right" width="310" alt="Optimus Prime" src="./assets/optimus-prime.gif"/>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> About me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Sobre mi
 
-I am a Systems and Computer Engineering student focused on building practical software solutions that combine logic, clean structure, user experience, and real functionality.
+Soy estudiante de Ingenieria de Sistemas y Computacion enfocado en construir soluciones de software practicas que combinan logica, estructura limpia, experiencia de usuario y funcionalidad real.
 
-My work and learning path are strongly connected to full stack development, artificial intelligence applications, process automation, APIs, relational databases, cloud deployment, and software architecture. I enjoy participating in projects where technology solves real problems and where the system needs to be organized, scalable, and maintainable.
+Mi trabajo y mi ruta de aprendizaje estan conectados con el desarrollo full stack, aplicaciones de inteligencia artificial, automatizacion de procesos, APIs, bases de datos relacionales, despliegue en la nube y arquitectura de software. Me gusta participar en proyectos donde la tecnologia resuelve problemas reales y donde el sistema necesita ser organizado, escalable y mantenible.
 
-I have worked with technologies such as React, Next.js, TypeScript, Node.js, Express, Python, Flask, FastAPI, MySQL, PostgreSQL, Google Cloud, Vercel, GitHub Actions, and AI-assisted development workflows.
+He trabajado con tecnologias como React, Next.js, TypeScript, Node.js, Express, Python, Flask, FastAPI, MySQL, PostgreSQL, Google Cloud, Vercel, GitHub Actions y flujos de desarrollo asistidos por IA.
 
-I am especially interested in software products that involve automation, conversational assistants, intelligent systems, financial simulation, web platforms, and cloud-based services.
+Me interesan especialmente los productos de software que involucran automatizacion, asistentes conversacionales, sistemas inteligentes, simulacion financiera, plataformas web y servicios basados en la nube.
 
 <br>
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Current Focus
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Enfoque actual
 
-- Building full stack web applications with React, Next.js, TypeScript, Node.js and Express  
-- Developing AI-powered solutions, chatbots, automation flows and API integrations  
-- Strengthening backend architecture, databases, authentication, security and auditability  
-- Deploying applications using Google Cloud, Vercel and GitHub Actions  
-- Improving UI/UX, technical documentation and clean software structure  
-- Learning continuously through real projects, teamwork and applied technology  
+- Construir aplicaciones web full stack con React, Next.js, TypeScript, Node.js y Express
+- Desarrollar soluciones con IA, chatbots, flujos de automatizacion e integraciones de API
+- Fortalecer arquitectura backend, bases de datos, autenticacion, seguridad y auditabilidad
+- Desplegar aplicaciones con Google Cloud, Vercel y GitHub Actions
+- Mejorar UI/UX, documentacion tecnica y estructura limpia de software
+- Aprender de forma continua con proyectos reales, trabajo en equipo y tecnologia aplicada
 
 ---
 
-## <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> My Skills Include
+## <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> Mis habilidades incluyen
 
-### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="24"> Programming Languages
+### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="24"> Lenguajes de programacion
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs" />
 </p>
 
-### <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="24"> Frontend & UI Development
+### <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="24"> Frontend, UI y desarrollo de escritorio
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,figma" />
 </p>
 
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="24"> Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="24"> Backend y APIs
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
@@ -74,7 +80,7 @@ I am especially interested in software products that involve automation, convers
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
 </p>
 
-### <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="24"> Databases
+### <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="24"> Bases de datos
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
@@ -85,7 +91,7 @@ I am especially interested in software products that involve automation, convers
   <img src="https://img.shields.io/badge/Aiven%20Cloud-FF4A00?style=for-the-badge&logo=aiven&logoColor=white" />
 </p>
 
-### <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="24"> Cloud, DevOps & Tools
+### <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="24"> Cloud, DevOps y herramientas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=gcp,vercel,docker,git,github,githubactions,linux,windows" />
@@ -97,7 +103,7 @@ I am especially interested in software products that involve automation, convers
   <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </p>
 
-### <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="24"> AI, Automation & Assisted Workflows
+### <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="24"> IA, automatizacion y flujos asistidos
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI%20Applications-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
@@ -106,77 +112,47 @@ I am especially interested in software products that involve automation, convers
   <img src="https://img.shields.io/badge/API%20Integrations-1E293B?style=for-the-badge&logo=postman&logoColor=FF6C37" />
 </p>
 
-### <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="24"> IDEs & Development Environments
+### <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="24"> IDEs y entornos de desarrollo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,webstorm" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> Featured Projects & Contributions
+## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> Proyectos destacados y contribuciones
 
-### Simulador de Crédito Educativo UPB
+### Aplicacion MERN
 
-Academic full stack platform for educational credit simulation, focused on financial rules, amortization schedules, user roles, auditability, export generation and parameter management.
+**Repositorio:** [MERN Application](https://github.com/josemora090525/MERN-Application-)
 
-**Main focus:** full stack development, financial logic, backend architecture, relational database design, authentication, admin modules and technical documentation.
+Aplicacion tipo e-commerce desarrollada con el stack MERN, enfocada en la integracion entre frontend, backend, base de datos y logica de negocio.
 
-**Tech Stack:** React, Vite, TypeScript, Tailwind CSS, Node.js, Express, Sequelize, MySQL, JWT, PDF/CSV export.
-
----
-
-### CiviBot
-
-Conversational WhatsApp bot for traffic and automotive services in Colombia, focused on appointment flows, institution search, user state management, structured responses and cloud deployment.
-
-**Main focus:** conversational automation, WhatsApp Cloud API integration, backend services, PostgreSQL persistence and deployment on Google Cloud Run.
-
-**Tech Stack:** Python, Flask, PostgreSQL, Meta WhatsApp Cloud API, Google Cloud Run.
+**Stack:** MongoDB, Express, React, Node.js, Tailwind CSS.
 
 ---
 
-### PortalSP
+### Autenticacion MERN
 
-Editorial web portal focused on public utilities and telecommunications in Colombia, designed as a clean, modern and scalable digital information platform.
+**Repositorio:** [Authentication MERN](https://github.com/josemora090525/Authentication-MERN)
 
-**Main focus:** Next.js architecture, editorial UI, sector-based navigation, structured content and deployment-ready frontend.
+Sistema de autenticacion con registro, inicio de sesion, verificacion, recuperacion de contrasena y acceso protegido con JWT.
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Vercel.
-
----
-
-### MERN Application
-
-**Repository:** [MERN Application](https://github.com/josemora090525/MERN-Application-)
-
-E-commerce style application developed with the MERN stack, focused on the integration between frontend, backend, database and application logic.
-
-**Tech Stack:** MongoDB, Express, React, Node.js, Tailwind CSS.
+**Stack:** MongoDB, Express, React, Node.js, JWT.
 
 ---
 
-### Authentication MERN
+### Sistema de gestion veterinaria
 
-**Repository:** [Authentication MERN](https://github.com/josemora090525/Authentication-MERN)
+**Repositorio:** [Veterinaria SOS](https://github.com/Dabji/Veterinaria)
 
-Authentication system with registration, login, verification, password recovery and JWT-based protected access.
+Sistema academico de gestion para clinicas veterinarias, enfocado en diseno de base de datos, estructura de software y flujos operativos.
 
-**Tech Stack:** MongoDB, Express, React, Node.js, JWT.
-
----
-
-### Veterinary Management System
-
-**Repository:** [Veterinaria SOS](https://github.com/Dabji/Veterinaria)
-
-Academic management system for veterinary clinics, focused on database design, software structure and operational workflows.
-
-**Tech Stack:** Java, PostgreSQL.
+**Stack:** Java, PostgreSQL.
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="30"> Connect with me
+## <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="30"> Conectemos
 
 <p align="left">
   <a href="https://github.com/josemora090525" target="_blank">
@@ -192,17 +168,17 @@ Academic management system for veterinary clinics, focused on database design, s
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Estadisticas de GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josemora090525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemora090525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josemora090525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Estadisticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemora090525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Lenguajes principales" />
 </div>
 
 <br>
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=josemora090525&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF" alt="GitHub streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=josemora090525&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF" alt="Racha de GitHub" />
 </div>
 
 <br>
@@ -214,13 +190,13 @@ Academic management system for veterinary clinics, focused on database design, s
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josemora090525&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josemora090525&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Grafico de actividad" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/josemora090525/josemora090525/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/josemora090525/josemora090525/output/github-snake-dark.svg" alt="Serpiente de contribuciones" />
 </div>
 
 ---
@@ -229,11 +205,11 @@ Academic management system for veterinary clinics, focused on database design, s
 
 <div align="center">
   <img src="./assets/cristiano.gif" width="250" alt="Cristiano Ronaldo" />
-  <p><i>Siiiiuuuu! Always learning, building and giving my best through technology.</i></p>
+  <p><i>Siiiiuuuu! Siempre aprendiendo, construyendo y dando lo mejor con tecnologia.</i></p>
 </div>
 
 ---
 
 <p align="center">
-  <em>Learning, building and growing through technology.</em>
+  <em>Aprendiendo, construyendo y creciendo con tecnologia.</em>
 </p>
