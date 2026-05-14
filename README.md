@@ -1,12 +1,12 @@
-<h1 align="center"><b>Hola, soy Jose David Mora Patino</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy José David Mora Patiño</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <strong>Estudiante de Ingenieria de Sistemas y Computacion</strong><br/>
-  Desarrollo Full Stack · Aplicaciones con IA · Automatizacion · Despliegue en la nube
+  <strong>Estudiante de Ingeniería de Sistemas y Computación</strong><br/>
+  Desarrollo Full Stack · Aplicaciones con IA · Automatización · Despliegue en la nube
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Construyendo+soluciones+de+software+con+impacto+real;Enfocado+en+desarrollo+full+stack+y+aplicaciones+de+IA;Trabajando+con+APIs%2C+bases+de+datos%2C+nube+y+automatizacion;Aprendiendo%2C+construyendo+y+creciendo+con+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Construyendo+soluciones+de+software+con+impacto+real;Enfocado+en+desarrollo+full+stack+y+aplicaciones+de+IA;Trabajando+con+APIs%2C+bases+de+datos%2C+nube+y+automatizaci%C3%B3n;Aprendiendo%2C+construyendo+y+creciendo+con+tecnolog%C3%ADa" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,32 +25,32 @@
 
 <img align="right" width="310" alt="Optimus Prime" src="./assets/optimus-prime.gif"/>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Sobre mi
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Sobre mí
 
-Soy estudiante de Ingenieria de Sistemas y Computacion enfocado en construir soluciones de software practicas que combinan logica, estructura limpia, experiencia de usuario y funcionalidad real.
+Soy estudiante de Ingeniería de Sistemas y Computación enfocado en construir soluciones de software prácticas que combinan lógica, estructura limpia, experiencia de usuario y funcionalidad real.
 
-Mi trabajo y mi ruta de aprendizaje estan conectados con el desarrollo full stack, aplicaciones de inteligencia artificial, automatizacion de procesos, APIs, bases de datos relacionales, despliegue en la nube y arquitectura de software. Me gusta participar en proyectos donde la tecnologia resuelve problemas reales y donde el sistema necesita ser organizado, escalable y mantenible.
+Mi trabajo y mi ruta de aprendizaje están conectados con el desarrollo full stack, aplicaciones de inteligencia artificial, automatización de procesos, APIs, bases de datos relacionales, despliegue en la nube y arquitectura de software. Me gusta participar en proyectos donde la tecnología resuelve problemas reales y donde el sistema necesita ser organizado, escalable y mantenible.
 
-He trabajado con tecnologias como React, Next.js, TypeScript, Node.js, Express, Python, Flask, FastAPI, MySQL, PostgreSQL, Google Cloud, Vercel, GitHub Actions y flujos de desarrollo asistidos por IA.
+He trabajado con tecnologías como React, Next.js, TypeScript, Node.js, Express, Python, Flask, FastAPI, MySQL, PostgreSQL, Google Cloud, Vercel, GitHub Actions y flujos de desarrollo asistidos por IA.
 
-Me interesan especialmente los productos de software que involucran automatizacion, asistentes conversacionales, sistemas inteligentes, simulacion financiera, plataformas web y servicios basados en la nube.
+Me interesan especialmente los productos de software que involucran automatización, asistentes conversacionales, sistemas inteligentes, simulación financiera, plataformas web y servicios basados en la nube.
 
 <br>
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Enfoque actual
 
 - Construir aplicaciones web full stack con React, Next.js, TypeScript, Node.js y Express
-- Desarrollar soluciones con IA, chatbots, flujos de automatizacion e integraciones de API
-- Fortalecer arquitectura backend, bases de datos, autenticacion, seguridad y auditabilidad
+- Desarrollar soluciones con IA, chatbots, flujos de automatización e integraciones de API
+- Fortalecer arquitectura backend, bases de datos, autenticación, seguridad y auditabilidad
 - Desplegar aplicaciones con Google Cloud, Vercel y GitHub Actions
-- Mejorar UI/UX, documentacion tecnica y estructura limpia de software
-- Aprender de forma continua con proyectos reales, trabajo en equipo y tecnologia aplicada
+- Mejorar UI/UX, documentación técnica y estructura limpia de software
+- Aprender de forma continua con proyectos reales, trabajo en equipo y tecnología aplicada
 
 ---
 
 ## <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> Mis habilidades incluyen
 
-### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="24"> Lenguajes de programacion
+### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="24"> Lenguajes de programación
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs" />
@@ -59,7 +59,7 @@ Me interesan especialmente los productos de software que involucran automatizaci
 ### <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="24"> Frontend, UI y desarrollo de escritorio
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind" />
 </p>
 
 <p align="left">
@@ -103,7 +103,7 @@ Me interesan especialmente los productos de software que involucran automatizaci
   <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </p>
 
-### <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="24"> IA, automatizacion y flujos asistidos
+### <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="24"> IA, automatización y flujos asistidos
 
 <p align="left">
   <img src="https://img.shields.io/badge/AI%20Applications-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
@@ -122,31 +122,31 @@ Me interesan especialmente los productos de software que involucran automatizaci
 
 ## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> Proyectos destacados y contribuciones
 
-### Aplicacion MERN
+### Aplicación MERN
 
 **Repositorio:** [MERN Application](https://github.com/josemora090525/MERN-Application-)
 
-Aplicacion tipo e-commerce desarrollada con el stack MERN, enfocada en la integracion entre frontend, backend, base de datos y logica de negocio.
+Aplicación tipo e-commerce desarrollada con el stack MERN, enfocada en la integración entre frontend, backend, base de datos y lógica de negocio.
 
 **Stack:** MongoDB, Express, React, Node.js, Tailwind CSS.
 
 ---
 
-### Autenticacion MERN
+### Autenticación MERN
 
 **Repositorio:** [Authentication MERN](https://github.com/josemora090525/Authentication-MERN)
 
-Sistema de autenticacion con registro, inicio de sesion, verificacion, recuperacion de contrasena y acceso protegido con JWT.
+Sistema de autenticación con registro, inicio de sesión, verificación, recuperación de contraseña y acceso protegido con JWT.
 
 **Stack:** MongoDB, Express, React, Node.js, JWT.
 
 ---
 
-### Sistema de gestion veterinaria
+### Sistema de gestión veterinaria
 
 **Repositorio:** [Veterinaria SOS](https://github.com/Dabji/Veterinaria)
 
-Sistema academico de gestion para clinicas veterinarias, enfocado en diseno de base de datos, estructura de software y flujos operativos.
+Sistema académico de gestión para clínicas veterinarias, enfocado en diseño de base de datos, estructura de software y flujos operativos.
 
 **Stack:** Java, PostgreSQL.
 
@@ -168,10 +168,10 @@ Sistema academico de gestion para clinicas veterinarias, enfocado en diseno de b
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Estadisticas de GitHub
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Estadísticas de GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josemora090525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Estadisticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josemora090525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Estadísticas de GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemora090525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Lenguajes principales" />
 </div>
 
@@ -190,7 +190,7 @@ Sistema academico de gestion para clinicas veterinarias, enfocado en diseno de b
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josemora090525&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Grafico de actividad" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josemora090525&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Gráfico de actividad" />
 </div>
 
 <br>
@@ -205,11 +205,11 @@ Sistema academico de gestion para clinicas veterinarias, enfocado en diseno de b
 
 <div align="center">
   <img src="./assets/cristiano.gif" width="250" alt="Cristiano Ronaldo" />
-  <p><i>Siiiiuuuu! Siempre aprendiendo, construyendo y dando lo mejor con tecnologia.</i></p>
+  <p><i>Siiiiuuuu! Siempre aprendiendo, construyendo y dando lo mejor con tecnología.</i></p>
 </div>
 
 ---
 
 <p align="center">
-  <em>Aprendiendo, construyendo y creciendo con tecnologia.</em>
+  <em>Aprendiendo, construyendo y creciendo con tecnología.</em>
 </p>
