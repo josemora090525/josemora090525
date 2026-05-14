@@ -1,127 +1,223 @@
-<h1 align="center">Hola, soy José David Mora 👨🏻‍💻</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas e Informática | Software Developer</h3>
-
-<div align="center">
-  <img src="./assets/optimus-prime.gif" width="220" alt="Optimus Prime" />
-</div>
+<h1 align="center"><b>Hi, I'm José David Mora Patiño</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <i>Construyendo soluciones funcionales que combinan lógica, estructura, diseño y tecnología aplicada a problemas reales.</i>
+  <strong>Systems and Computer Engineering Student</strong><br/>
+  Full Stack Development · AI-Powered Applications · Automation · Cloud Deployment
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+software+solutions+with+real-world+impact;Focused+on+full-stack+development+and+AI+applications;Working+with+APIs%2C+databases%2C+cloud+and+automation;Learning%2C+building+and+growing+through+technology" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/josemora090525">
+    <img src="https://img.shields.io/badge/GitHub-josemora090525-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/josedavidmora/">
+    <img src="https://img.shields.io/badge/LinkedIn-José%20David%20Mora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:josedavid.morap@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🚀 Sobre mí
+<img align="right" width="310" alt="Optimus Prime" src="./assets/optimus-prime.gif"/>
 
-Soy un desarrollador de software apasionado por la creación de soluciones modernas y escalables. Me encanta trabajar en proyectos donde pueda aportar desde la lógica técnica hasta la arquitectura del sistema, buscando siempre aprender y mejorar continuamente.
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> About me
 
-- 🔭 **Actualmente enfocado en:** Desarrollo web Full Stack, automatización de procesos y proyectos de Inteligencia Artificial aplicada.
-- 🌱 **Aprendiendo sobre:** Arquitectura de software, despliegue en la nube (GCP) e integración avanzada de APIs web.
-- 💡 **Intereses:** Desarrollo Backend seguro, diseño de bases de datos relacionales y NoSQL, y creación de flujos robustos y eficientes.
+I am a Systems and Computer Engineering student focused on building practical software solutions that combine logic, clean structure, user experience, and real functionality.
+
+My work and learning path are strongly connected to full stack development, artificial intelligence applications, process automation, APIs, relational databases, cloud deployment, and software architecture. I enjoy participating in projects where technology solves real problems and where the system needs to be organized, scalable, and maintainable.
+
+I have worked with technologies such as React, Next.js, TypeScript, Node.js, Express, Python, Flask, FastAPI, MySQL, PostgreSQL, Google Cloud, Vercel, GitHub Actions, and AI-assisted development workflows.
+
+I am especially interested in software products that involve automation, conversational assistants, intelligent systems, financial simulation, web platforms, and cloud-based services.
+
+<br>
+
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Current Focus
+
+- Building full stack web applications with React, Next.js, TypeScript, Node.js and Express  
+- Developing AI-powered solutions, chatbots, automation flows and API integrations  
+- Strengthening backend architecture, databases, authentication, security and auditability  
+- Deploying applications using Google Cloud, Vercel and GitHub Actions  
+- Improving UI/UX, technical documentation and clean software structure  
+- Learning continuously through real projects, teamwork and applied technology  
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> My Skills Include
+
+### <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="24"> Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cs" />
+</p>
+
+### <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="24"> Frontend & UI Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,figma" />
+</p>
+
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="24"> Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-0F172A?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+</p>
+
+### <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="24"> Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aiven%20Cloud-FF4A00?style=for-the-badge&logo=aiven&logoColor=white" />
+</p>
+
+### <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="24"> Cloud, DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,vercel,docker,git,github,githubactions,linux,windows" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</p>
+
+### <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="24"> AI, Automation & Assisted Workflows
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Applications-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chatbots-1E293B?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+  <img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+  <img src="https://img.shields.io/badge/API%20Integrations-1E293B?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+</p>
+
+### <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="24"> IDEs & Development Environments
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,webstorm" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> Featured Projects & Contributions
+
+### Simulador de Crédito Educativo UPB
+
+Academic full stack platform for educational credit simulation, focused on financial rules, amortization schedules, user roles, auditability, export generation and parameter management.
+
+**Main focus:** full stack development, financial logic, backend architecture, relational database design, authentication, admin modules and technical documentation.
+
+**Tech Stack:** React, Vite, TypeScript, Tailwind CSS, Node.js, Express, Sequelize, MySQL, JWT, PDF/CSV export.
+
+---
+
+### CiviBot
+
+Conversational WhatsApp bot for traffic and automotive services in Colombia, focused on appointment flows, institution search, user state management, structured responses and cloud deployment.
+
+**Main focus:** conversational automation, WhatsApp Cloud API integration, backend services, PostgreSQL persistence and deployment on Google Cloud Run.
+
+**Tech Stack:** Python, Flask, PostgreSQL, Meta WhatsApp Cloud API, Google Cloud Run.
+
+---
+
+### PortalSP
+
+Editorial web portal focused on public utilities and telecommunications in Colombia, designed as a clean, modern and scalable digital information platform.
+
+**Main focus:** Next.js architecture, editorial UI, sector-based navigation, structured content and deployment-ready frontend.
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Vercel.
+
+---
+
+### MERN Application
+
+**Repository:** [MERN Application](https://github.com/josemora090525/MERN-Application-)
+
+E-commerce style application developed with the MERN stack, focused on the integration between frontend, backend, database and application logic.
+
+**Tech Stack:** MongoDB, Express, React, Node.js, Tailwind CSS.
+
+---
+
+### Authentication MERN
+
+**Repository:** [Authentication MERN](https://github.com/josemora090525/Authentication-MERN)
+
+Authentication system with registration, login, verification, password recovery and JWT-based protected access.
+
+**Tech Stack:** MongoDB, Express, React, Node.js, JWT.
+
+---
+
+### Veterinary Management System
+
+**Repository:** [Veterinaria SOS](https://github.com/Dabji/Veterinaria)
+
+Academic management system for veterinary clinics, focused on database design, software structure and operational workflows.
+
+**Tech Stack:** Java, PostgreSQL.
+
+---
+
+## <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="30"> Connect with me
+
+<p align="left">
+  <a href="https://github.com/josemora090525" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/josedavidmora/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:josedavid.morap@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josemora090525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josemora090525&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josemora090525&layout=compact&theme=tokyonight&hide_border=true)
-  
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=josemora090525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemora090525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top languages" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br>
 
 <div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=josemora090525&theme=tokyonight&no-frame=true&row=1&column=7)
-  
+  <img height="180" src="https://streak-stats.demolab.com?user=josemora090525&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF" alt="GitHub streak" />
 </div>
 
----
-
-## 📈 Contribution Graph
+<br>
 
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josemora090525&theme=tokyo-night&hide_border=true)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=josemora090525&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </div>
 
----
-
-## 🛠️ Tecnologías y Herramientas
+<br>
 
 <div align="center">
-  
-  ### 💻 Lenguajes
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-  ### 🎨 Frontend
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-  ### ⚙️ Backend y Automatización
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-  
-  ### 🗄️ Bases de Datos y Cloud
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josemora090525&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="GitHub activity graph" />
 </div>
 
----
-
-## 📌 Proyectos Destacados
-
-| Proyecto | Descripción | Stack Tecnológico | Enlace |
-|----------|-------------|-------------------|--------|
-| **🛒 MERN Application** | E-commerce escalable con integración completa entre frontend y backend. Manejo de estado y servicios externos. | MongoDB, Express, React, Node.js, Tailwind | [🔗 Repositorio](https://github.com/josemora090525/MERN-Application-) |
-| **🔐 Auth MERN** | Sistema robusto de autenticación. Incluye registro, login, verificación, recuperación de contraseña y protección JWT. | MongoDB, Express, React, Node.js, JWT | [🔗 Repositorio](https://github.com/josemora090525/Authentication-MERN) |
-| **🏥 Veterinaria SOS** | Sistema de gestión para clínicas veterinarias. Desarrollo académico enfocado en arquitectura de base de datos. | Java, PostgreSQL | [🔗 Repositorio](https://github.com/Dabji/Veterinaria) |
-
----
-
-## ⚽ Extra
-
-<div align="center">
-  <img src="./assets/cristiano.gif" width="250" alt="Cristiano Ronaldo" />
-  <p><i>Siiiiuuuu! Siempre aprendiendo, construyendo y dando el 100% como desarrollador.</i></p>
-</div>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josemora090525&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Estadísticas de José Mora" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemora090525&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=58A6FF" alt="Lenguajes principales" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josemora090525&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" alt="Racha de GitHub" />
-</div>
-
----
-
-## � Contribuciones
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/josemora090525/josemora090525/output/github-snake-dark.svg" alt="Snake animation" />
@@ -129,13 +225,15 @@ Soy un desarrollador de software apasionado por la creación de soluciones moder
 
 ---
 
-## �� Contacto
+## ⚽ Extra
 
 <div align="center">
-  <a href="https://github.com/josemora090525">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="./assets/cristiano.gif" width="250" alt="Cristiano Ronaldo" />
+  <p><i>Siiiiuuuu! Always learning, building and giving my best through technology.</i></p>
 </div>
+
+---
+
+<p align="center">
+  <em>Learning, building and growing through technology.</em>
+</p>
