@@ -142,6 +142,16 @@ Sistema de autenticación con registro, inicio de sesión, verificación, recupe
 
 ---
 
+### TransRail
+
+**Repositorio:** [TransRail](https://github.com/josemora090525/TransRail)
+
+Sistema para operaciones ferroviarias, control administrativo, compra de boletos, equipaje y abordaje, aplicando estructuras de datos.
+
+**Stack:** C#, .NET 10, WinForms (UI), Clean + MVP Architecture, Persistence, JSON, xUnit (Tests), Data Structures.
+
+---
+
 ### Sistema de gestión veterinaria
 
 **Repositorio:** [Veterinaria SOS](https://github.com/Dabji/Veterinaria)
