@@ -122,7 +122,7 @@ Me interesan especialmente los productos de software que involucran automatizaci
 
 ## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> Proyectos destacados y contribuciones
 
-### Aplicación MERN
+### Aplicativo e-commerce
 
 **Repositorio:** [MERN Application](https://github.com/josemora090525/MERN-Application-)
 
@@ -132,7 +132,7 @@ Aplicación tipo e-commerce desarrollada con el stack MERN, enfocada en la integ
 
 ---
 
-### Autenticación MERN
+### Sistema de Autenticación
 
 **Repositorio:** [Authentication MERN](https://github.com/josemora090525/Authentication-MERN)
 
@@ -142,7 +142,7 @@ Sistema de autenticación con registro, inicio de sesión, verificación, recupe
 
 ---
 
-### TransRail
+### Sistema de Gestión de Trenes
 
 **Repositorio:** [TransRail](https://github.com/josemora090525/TransRail)
 
@@ -152,13 +152,13 @@ Sistema para operaciones ferroviarias, control administrativo, compra de boletos
 
 ---
 
-### Sistema de gestión veterinaria
+### Sistema de Gestión de Inventario
 
 **Repositorio:** [Veterinaria SOS](https://github.com/Dabji/Veterinaria)
 
 Sistema académico de gestión para clínicas veterinarias, enfocado en diseño de base de datos, estructura de software y flujos operativos.
 
-**Stack:** Java, PostgreSQL.
+**Stack:** Java, JavaFx, PostgreSQL, Model View Controller (MVC).
 
 ---
 
