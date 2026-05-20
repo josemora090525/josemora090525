@@ -108,7 +108,7 @@ Me interesan especialmente los productos de software que involucran automatizaci
 <p align="left">
   <img src="https://img.shields.io/badge/AI%20Applications-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Chatbots-1E293B?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
-  <img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+  <img src="https://img.shields.io/badge/Automation-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
   <img src="https://img.shields.io/badge/API%20Integrations-1E293B?style=for-the-badge&logo=postman&logoColor=FF6C37" />
 </p>
 
