@@ -108,10 +108,7 @@ Me interesan especialmente los productos de software que involucran automatizaci
 <p align="left">
   <img src="https://img.shields.io/badge/AI%20Applications-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Chatbots-1E293B?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
-  <span style="display:inline-flex; align-items:center; gap:6px; background:#0F172A; color:#FFFFFF; border-radius:4px; padding:4px 8px; font-family:Segoe UI, Arial, sans-serif; font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:0.5px;">
-    <img src="./assets/S3SNU.jpg" height="18" alt="Webhook" />
-    WEBHOOK
-  </span>
+  <img src="./assets/webhook-badge.svg" height="28" alt="Webhook" />
   <img src="https://img.shields.io/badge/API%20Integrations-1E293B?style=for-the-badge&logo=postman&logoColor=FF6C37" />
 </p>
 
